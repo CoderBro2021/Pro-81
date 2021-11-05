@@ -1,0 +1,10 @@
+.body_background {
+    background-image: url("olympics.gif");
+    background-position: center;
+    background-size:cover;
+}
+#mycanvas{
+    border-width:20px;
+    background-color: white;
+    border-style: ridge;
+}
